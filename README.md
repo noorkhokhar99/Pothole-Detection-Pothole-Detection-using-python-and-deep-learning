@@ -28,6 +28,7 @@ pip install -r requirements.txt
 
 `python predict.py model=y8best.pt source="demo.mp4" show=True`
 
+`python predict.py model=y8best.pt source=0 show=True`
 
 
 <p align="center">
