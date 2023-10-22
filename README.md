@@ -12,15 +12,15 @@ git clone https://github.com/noorkhokhar99/Pothole-Detection-Pothole-Detection-u
 cd Pothole-Detection-Pothole-Detection-using-python-and-deep-learning
 
 ```
-- Upgrade pip with mentioned command below.
+- Upgrade pip with the mentioned command below.
 ```
 pip install --upgrade pip
 ```
-- Install requirements with mentioned command below.
+- Install requirements with the mentioned command below.
 ```
 pip install -r requirements.txt
 ```
-- Run the code with mentioned command below.
+- Run the code with the mentioned command below.
 
  - Run for webcam
  
@@ -31,7 +31,7 @@ pip install -r requirements.txt
 `python predict.py model=y8best.pt source=0 show=True`
 
 
-donwlaod weight: https://drive.google.com/drive/folders/1T1h2WH3_wrNb0foJuDw8w33Br_2kZjnS?usp=share_link
+download weight: https://drive.google.com/drive/folders/1T1h2WH3_wrNb0foJuDw8w33Br_2kZjnS?usp=share_link
 
 
 <p align="center">
